@@ -1,0 +1,41 @@
+/* popup/src/styles/BlockList.css */
+
+.blocklist {
+    padding: 10px;
+    width: 300px;
+  }
+  
+  .blocklist h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .blocklist input {
+    width: 80%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .blocklist button {
+    padding: 5px 10px;
+    margin-left: 5px;
+  }
+  
+  .blocklist ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .blocklist li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
+  
+  .blocklist li button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px;
+  }
+  
